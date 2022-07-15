@@ -2,6 +2,10 @@
 
 Analysis of Fantasy Premier League
 
+![FPL](https://user-images.githubusercontent.com/91014176/179262279-41246748-3a0e-4d19-a50a-6e6d83780d21.png)
+
+image source : https://fanarena.com/wp-content/uploads/2019/11/Fantasy-Premier-League-Users-per-Season.png
+
 ### What is Fantasy Premier League?
 
 FPL is a game that casts you in the role of a Fantasy manager of Premier League players. 
